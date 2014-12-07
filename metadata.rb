@@ -1,4 +1,4 @@
-name              "raptor"
+name              "rasqal"
 maintainer        "ADADA, LLC"
 maintainer_email  "chef@adadabase.com"
 license           "MIT"
